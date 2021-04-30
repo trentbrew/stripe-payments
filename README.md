@@ -1,5 +1,3 @@
-## Fullstack Stripe Payments for the JavaScript Developer
-
 ## Frontend Setup
 
 The backend API can be integrated with the following frontend frameworks. 
